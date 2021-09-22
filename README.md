@@ -7,7 +7,7 @@
 I'm a computer science entusiast who is passionate about writing code, solving problems, automating stuff.
 
 - 📫 How to reach me: [Gmail](mailto:michalus88@gmail.com)
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
