@@ -19,6 +19,7 @@ I'm a computer science entusiast who is passionate about writing code, solving p
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  , Typescript
   , NestJs
   , Express
 - 🛢 &nbsp;
